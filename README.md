@@ -1,0 +1,2 @@
+# ngCalc
+Angular modern version
